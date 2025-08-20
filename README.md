@@ -8,6 +8,18 @@ I'm a **developer** and **security researcher** passionate about building secure
 
 ---
 
+### 🔹 [Postglide](https://github.com/sajeevanjspy/postglide)  
+**Tech Stack**: Go, PostgreSQL  
+A Vitess-inspired system for PostgreSQL, featuring sharding, schema management, and protocol-aware routing.
+
+---
+
+### 🔹 [Snapp](https://github.com/sajeevanjspy/snapp)  
+**Tech Stack**: Next.js, WebSockets, PostgreSQL  
+A real-time chat application supporting live messaging, user presence, and a performant PostgreSQL backend.
+
+---
+
 ### 🔹 [Void Caster](https://github.com/SajeevanJSPY/void-caster)  
 **Tech Stack**: Rust  
 A research blockchain exploring hybrid consensus (Tendermint + Narwhal-Bullshark) and a minimal custom execution layer inspired by Ethereum.
@@ -26,11 +38,6 @@ A modular banking system for managing user accounts and administrative workflows
 
 ---
 
-### 🔹 [SystemInfoAsm](https://github.com/SajeevanJSPY/system_info_asm)  
-**Tech Stack**: Assembly (GAS)  
-A low-level utility written in x86 assembly to extract CPU and system information using registers and interrupt calls.
-
----
 
 ### 🔹 [Hypercolor](https://github.com/SajeevanJSPY/Hyper-Color)  
 **Tech Stack**: React, TypeScript, Tailwind CSS  
